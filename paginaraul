@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Raul Almeida Barreto: THE PAGE!!!</title>
+
+    <style>
+        h1{
+            font-family:'Courier New', Courier, monospace;
+            text-align: center;
+            color: greenyellow;
+            text-shadow: 0 0 0.2em rgb(205, 255, 199);
+        }        
+
+        h3{
+            text-shadow: 0 0 0.2em rgb(254, 255, 254);
+            color: aliceblue;
+            font-family:'Courier New', Courier, monospace;
+        }
+
+     body{
+        background-image: linear-gradient(90deg, rgb(42, 5, 100), rgb(112, 70, 209));
+     }
+
+     #imgpos{
+    width: 89px;
+    height: 140px;
+  
+     }
+
+     #imgpos2{
+        width: 113px;
+        height: 120px;
+     }
+
+
+     h2{
+        color: aliceblue; 
+        font-family:'Courier New', Courier, monospace;
+     }
+
+     h4{
+       color: aliceblue;
+        font-family:'Courier New', Courier, monospace;
+     }
+
+    </style>
+</head>
+
+<body>
+    <h1>R a u l. Man of the year.</h1>
+    <h3>Hello, my name is Raul Barreto, I'm a Barcelona FC player, current champion of the UEFA Champions League and shirt 10 of the Brazilian team. Considered one of the greatest Brazilians "post-Pelé", elected by France Football as the best player in the world of the year 2022, Nike ambassador and Gucci poster boy.</h3>
+    <img src="https://assets.stickpng.com/thumbs/584a9b3bb080d7616d298777.png" id="imgpos2">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Cbf-logo-selecao-logo-brasil-4.png/291px-Cbf-logo-selecao-logo-brasil-4.png" id="imgpos">
+
+    <h3>MORE ABOUT ME:
+
+        I'm 17 years old, considered the greatest young player of all time, born in Contagem - MG, a fan of Clube Atlético Mineiro since childhood, currently dating the girl of my dreams (my dreams measure 1.48 height s2), I'm a brother older and I was an only child for 10 years.</h3><br>
+    
+        <h2>Means of Contact ⇩</h2>
+    <h4>📷 Instagram: @raull.https<br>
+        📧 Email: Greninjaultimate@gmail.com
+    </h4>
+
+    <audio controls>
+        <source src="C:\Users\Valdir\Downloads\Aka Rasta - Romântico 2 FT Veigh (prod. nategbeats).mp3"><br>
+    </audio>
+
+    </body>
+</html>
