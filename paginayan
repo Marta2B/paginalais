@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Yan Henrique</title>
+
+    <style>
+     h1{
+        text-shadow: 0 0 0.2em rgb(61, 61, 61);
+        color: rgb(0, 0, 0);
+        text-align: center;
+        font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+     }
+
+     body{
+        background-color: rgb(21, 9, 196);
+     }
+     #imgpos{
+        width: 89px;
+    height: 140px;
+     }
+     #imgpos2{
+        width: 115px;
+        height: 120px;
+     }
+    </style>
+
+</head>
+<body>
+    <h1>Olá, sou Yan Henrique, considerado o melhor levantor do brasil!</h1>
+    <h3>Vou falar um pouco sobre como me tornei o melhor levantador do brasil no voleibol.  Desde o inicio sempre me destaquei nos treinos e logo virei titular no meu time, com perfomances incriveis, logo fui chamado para a seleção brasileira aonde triunfei e trouxe o titulo mundial para casa, que foi o principal fator que fez com que todos me considerassem o melhor levantador do brasil.</h3>
+    <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgVipK3s5YaEq85UBvubYsuTgtxoSaplejMt1Cr6E1XPIJu-Gc6Tb7t4-Ux55wdy0MaFwAlDRbCPcIwwE0lWAMdwEoFGrcap7n5FCHhsHrWMdTVAlcuIlPto4hG54mAxt7DuxJsHnJqZ2m5mJexeSlgY8e7yKyUA7OGTGy6BuLN1JlffUhm1wi7hbmIyA/s808/brail-volei-masculino-vnl22-fivb.png" id="imgpos2">
+    <img src="https://s2.glbimg.com/bckOzwlyjjJJy0cLdcTwUV3OZng=/1200x/smart/filters:cover():strip_icc()/s.glbimg.com/es/ge/f/original/2018/09/04/2018-09-04t084748z_2010412989_rc160a4fb1f0_rtrmadp_3_soccer-fifa-clubworldcup.jpg" id="imgpos">
+
+    <h3>Sobre Mim:
+        Eu sou Yan Henrique, tenho 23 anos e sou atleta profissional de voleibol, tenho 1,91 de altura e peso 93 quilos, meu sonho é ser o melhor jogador de volei do mundo inteiro e trazer mais um mundial para o Brasil, e no mais é isso até mais!
+    </h3>
+    <h2> Meus Contatos:
+    
+    </h2>
+    <h4>intagram: @yanhenriquesm
+        
+    </h4>
+    <h4>email: yanhenriquesmatos@gmail.com</h4>
+</body>
+</html>
